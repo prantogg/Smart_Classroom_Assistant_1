@@ -8,7 +8,7 @@ Managing attendance and accessing academic information for students in a classro
 
 ## Design and Implementation
 
-![Architecture](architecture.png)
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/22538269/235815708-99c2c861-6a5d-49b7-ab26-dd51da0c3387.png">
 
 ### AWS Services Used
 
