@@ -1,4 +1,4 @@
-# Smart Classroom Assistant
+# Smart Classroom Assistant 2
 
 This project aims to create a serverless cloud application that utilizes PaaS resources from Amazon Web Services (AWS) to provide a face recognition service for classroom assistants. Users can send videos of students in the classroom, and the application performs face recognition on the students while retrieving their academic information.
 
